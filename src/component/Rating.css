@@ -1,0 +1,15 @@
+.ratz{
+   
+    justify-content: center; 
+    text-align: center;
+}
+span{
+    font-size: 55px;
+    cursor: pointer;
+}
+.color{
+    color: orange;
+}
+.uncolor{
+    color: black;
+}
